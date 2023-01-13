@@ -1,0 +1,34 @@
+[
+    {
+        "title":"Papa",
+        "stock":50,
+        "description":"La papa es un alimento de origen vegetal que, desde un punto de vista bromatológico, se puede incluír en el grupo de las hortalizas y verduras o en el grupo de los alimentos feculentos o amiláceos.",
+        "price":60,
+        "thumbnail":"thumbnail1",
+        "id":1
+    },
+    {
+        "title":"Batata",
+        "stock":20,
+        "description":"La batata, también llamada boniato, camote o patata dulce es siempre una hortaliza subestimada e incluso despreciada porque su nombre nos hace pensar que contiene gran cantidad de azúcar, sin embargo, es uno de los vegetales más saludables y por ello, te contamos todo sobre la batata.",
+        "price":50,
+        "thumbnail":"thumbnail2",
+        "id":2
+    },
+    {
+        "title":"Zanahoria",
+        "stock":65,
+        "description":"La zanahoria o Daucus Carota es una hortaliza perteneciente a la familia de las Apiaceas. Se trata de una planta bianual que durante el primer año forma escasas hojas y raíz mientras que, tras un período de descanso, forma el tallo y florece (con flores blancas agrupadas).",
+        "price":40,
+        "thumbnail":"thumbnail3",
+        "id":3
+    },
+    {
+        "title":"Zapallo",
+        "stock":15,
+        "description":"La calabaza o zapallo es el fruto en baya de la calabacera, planta herbácea de la familia de las cucurbitáceas, de hojas grandes y ásperas, y flores de color amarillo intenso. La más utilizada en la cocina es la calabaza común, Cucurbita máxima.",
+        "price":100,
+        "thumbnail":"thumbnail4",
+        "id":4
+    }
+]
